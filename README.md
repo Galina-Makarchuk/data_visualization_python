@@ -14,3 +14,7 @@ __Results:__
   * title and axis labels,
   * axis ticks and ranges,
   * legend with magenta and green data points.
+
+__Screenshot from the project:__
+
+<img width="1098" alt="Screenshot 2025-01-27 at 12 33 09" src="https://github.com/user-attachments/assets/2ee3181a-9086-467e-8340-3bfe6e816ed7" />
